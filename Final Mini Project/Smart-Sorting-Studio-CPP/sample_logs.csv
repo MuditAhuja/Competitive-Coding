@@ -1,0 +1,11 @@
+Event,Priority
+Login,3
+Logout,1
+Error,5
+Update,2
+Warning,4
+Sync,2
+Backup,1
+Crash,5
+Timeout,4
+Notice,3
